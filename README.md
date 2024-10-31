@@ -7,7 +7,7 @@
 Для запуска скрипта вам потребуется Python 3.6 или выше. Убедитесь, что у вас установлен Python, затем выполните следующие команды:
 
 ```bash
-git clone https://github.com/yourusername/nginx-curl-generator.git
+git clone https://github.com/iwizard7/nginx-curl-generator.git
 cd nginx-curl-generator
 ```
 ## Использование
